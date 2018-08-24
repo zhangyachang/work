@@ -1,0 +1,899 @@
+{
+  "shebeijiankong": {
+    "shebei": {
+      "basics": [
+        {
+          "key": "部门名称",
+          "vlue": "制造一部"
+        },
+        {
+          "key": "机组名称",
+          "vlue": "11#包装机"
+        },
+        {
+          "key": "班组名称",
+          "vlue": "红山茶(软)"
+        },
+        {
+          "key": "工单编号",
+          "vlue": "201512201130218044545"
+        },
+        {
+          "key": "班组名称",
+          "vlue": "红山茶(软)"
+        },
+        {
+          "key": "班组名称",
+          "vlue": "红山茶(软)"
+        }
+      ],
+      "table": {
+        "number": "",
+        "type": "",
+        "row": [
+          {
+            "number": "",
+            "type": "",
+            "col": [
+              {
+                "text": "小包机机器速度",
+                "number": "001",
+                "type": "text"
+              },
+              {
+                "text": "376(包/分)",
+                "number": "002",
+                "type": "text"
+              },
+              {
+                "text": "400(包/分)",
+                "number": "003",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "number": "",
+            "type": "",
+            "col": [
+              {
+                "text": "小包机机器状态",
+                "number": "001",
+                "type": "text"
+              },
+              {
+                "text": "运行",
+                "number": "002",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "number": "",
+            "type": "",
+            "col": [
+              {
+                "text": "小包机报警信息",
+                "number": "001",
+                "type": "text"
+              },
+              {
+                "text": "-",
+                "number": "002",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "number": "",
+            "type": "",
+            "col": [
+              {
+                "text": "小包机运行时间",
+                "number": "001",
+                "type": "text"
+              },
+              {
+                "text": "00:23:24",
+                "number": "002",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "number": "",
+            "type": "",
+            "col": [
+              {
+                "text": "小包机停机时间",
+                "number": "001",
+                "type": "text"
+              },
+              {
+                "text": "00:19:54",
+                "number": "002",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "number": "",
+            "type": "",
+            "col": [
+              {
+                "text": "小包机停机次数",
+                "number": "001",
+                "type": "text"
+              },
+              {
+                "text": "23",
+                "number": "002",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "number": "",
+            "type": "",
+            "col": [
+              {
+                "text": "条包机机器速度",
+                "number": "001",
+                "type": "text"
+              },
+              {
+                "text": "36(条/分)",
+                "number": "002",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "number": "",
+            "type": "",
+            "col": [
+              {
+                "text": "条包机机器状态",
+                "number": "001",
+                "type": "text"
+              },
+              {
+                "text": "运行",
+                "number": "002",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "number": "",
+            "type": "",
+            "col": [
+              {
+                "text": "条包机机器状态",
+                "number": "001",
+                "type": "text"
+              },
+              {
+                "text": "运行",
+                "number": "002",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "number": "",
+            "type": "",
+            "col": [
+              {
+                "text": "小包机机器状态",
+                "number": "001",
+                "type": "text"
+              },
+              {
+                "text": "运行",
+                "number": "002",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "number": "",
+            "type": "",
+            "col": [
+              {
+                "text": "小包机机器状态",
+                "number": "001",
+                "type": "text"
+              },
+              {
+                "text": "运行",
+                "number": "002",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+      },
+    "shengchan": {
+      "basics": [
+        {
+          "key": "部门名称",
+          "vlue": "制造一部"
+        },
+        {
+          "key": "机组名称",
+          "vlue": "11#包装机"
+        },
+        {
+          "key": "班组名称",
+          "vlue": "红山茶(软)"
+        },
+        {
+          "key": "工单编号",
+          "vlue": "201512201130218044545"
+        },
+        {
+          "key": "班组名称",
+          "vlue": "红山茶(软)"
+        },
+        {
+          "key": "班组名称",
+          "vlue": "红山茶(软)"
+        }
+      ],
+      "table": {
+        "number": "",
+        "type": "",
+        "row": [
+          {
+            "number": "",
+            "type": "",
+            "col": [
+              {
+                "text": "初次开始时间",
+                "number": "001",
+                "type": "text"
+              },
+              {
+                "text": "18:00",
+                "number": "002",
+                "type": "text"
+              },
+              {
+                "text": "400(包/分)",
+                "number": "003",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "number": "",
+            "type": "",
+            "col": [
+              {
+                "text": "班次结束时间",
+                "number": "001",
+                "type": "text"
+              },
+              {
+                "text": "23:40",
+                "number": "002",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "number": "",
+            "type": "",
+            "col": [
+              {
+                "text": "小包机实际产量",
+                "number": "001",
+                "type": "text"
+              },
+              {
+                "text": "10881(包)",
+                "number": "002",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "number": "",
+            "type": "",
+            "col": [
+              {
+                "text": "小包机剔除量",
+                "number": "001",
+                "type": "text"
+              },
+              {
+                "text": "258(包)",
+                "number": "002",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "number": "",
+            "type": "",
+            "col": [
+              {
+                "text": "小包机利用率",
+                "number": "001",
+                "type": "text"
+              },
+              {
+                "text": "42.84%",
+                "number": "002",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "number": "",
+            "type": "",
+            "col": [
+              {
+                "text": "小包机效率",
+                "number": "001",
+                "type": "text"
+              },
+              {
+                "text": "94.35%",
+                "number": "002",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "number": "",
+            "type": "",
+            "col": [
+              {
+                "text": "条包机实际产量",
+                "number": "001",
+                "type": "text"
+              },
+              {
+                "text": "1054(条)",
+                "number": "002",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "number": "",
+            "type": "",
+            "col": [
+              {
+                "text": "条包机剔除量",
+                "number": "001",
+                "type": "text"
+              },
+              {
+                "text": "17(条)",
+                "number": "002",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "number": "",
+            "type": "",
+            "col": [
+              {
+                "text": "条包机机器状态",
+                "number": "001",
+                "type": "text"
+              },
+              {
+                "text": "运行",
+                "number": "002",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "number": "",
+            "type": "",
+            "col": [
+              {
+                "text": "小包机机器状态",
+                "number": "001",
+                "type": "text"
+              },
+              {
+                "text": "运行",
+                "number": "002",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "number": "",
+            "type": "",
+            "col": [
+              {
+                "text": "小包机机器状态",
+                "number": "001",
+                "type": "text"
+              },
+              {
+                "text": "运行",
+                "number": "002",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "wuliao": {
+      "basics": [
+        {
+          "key": "部门名称",
+          "vlue": "制造一部"
+        },
+        {
+          "key": "机组名称",
+          "vlue": "11#包装机"
+        },
+        {
+          "key": "班组名称",
+          "vlue": "红山茶(软)"
+        },
+        {
+          "key": "工单编号",
+          "vlue": "201512201130218044545"
+        },
+        {
+          "key": "班组名称",
+          "vlue": "红山茶(软)"
+        },
+        {
+          "key": "班组名称",
+          "vlue": "红山茶(软)"
+        }
+      ],
+      "table": {
+        "number": "",
+        "type": "",
+        "row": [
+          {
+            "number": "",
+            "type": "",
+            "col": [
+              {
+                "text": "烟支",
+                "number": "001",
+                "type": "text"
+              },
+              {
+                "text": "223500.00(支)",
+                "number": "002",
+                "type": "text"
+              },
+              {
+                "text": "52278.256(支/箱)",
+                "number": "003",
+                "color": "#f40",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "number": "",
+            "type": "",
+            "col": [
+              {
+                "text": "铝箔纸",
+                "number": "001",
+                "type": "text"
+              },
+              {
+                "text": "1750.26(米)",
+                "number": "002",
+                "type": "text"
+              },
+              {
+                "text": "409.398(米/箱)",
+                "number": "002",
+                "color": "#f40",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "number": "",
+            "type": "",
+            "col": [
+              {
+                "text": "商标纸",
+                "number": "001",
+                "type": "text"
+              },
+              {
+                "text": "11130.00(张)",
+                "number": "002",
+                "type": "text"
+              },
+              {
+                "text": "2603.387(张/箱)",
+                "number": "002",
+                "color": "#f40",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "number": "",
+            "type": "",
+            "col": [
+              {
+                "text": "封签纸",
+                "number": "001",
+                "type": "text"
+              },
+              {
+                "text": "10955.00(张)",
+                "number": "002",
+                "type": "text"
+              },
+              {
+                "text": "2564(张/箱)",
+                "number": "002",
+                "color": "#f40",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "shengchankanban":{
+    "basics": [
+      {
+        "key": "部门名称",
+        "vlue": "制造一部"
+      },
+      {
+        "key": "机组名称",
+        "vlue": "11#包装机"
+      },
+      {
+        "key": "班组名称",
+        "vlue": "红山茶(软)"
+      },
+      {
+        "key": "工单编号",
+        "vlue": "201512201130218044545"
+      },
+      {
+        "key": "班组名称",
+        "vlue": "红山茶(软)"
+      },
+      {
+        "key": "班组名称",
+        "vlue": "红山茶(软)"
+      }
+    ],
+    "productionData": [
+      {
+        "key": "包装机停机时间",
+        "value": "00:23:49",
+        "color": "#fff",
+        "icon": "1",
+        "company": "date"
+      },
+      {
+        "key": "当班实时产量",
+        "value": "30530",
+        "color": "#fff",
+        "icon": "2",
+        "company": "盒"
+      },
+      {
+        "key": "条装机停机时间",
+        "value": "00:19:19",
+        "color": "#f40",
+        "icon": "2",
+        "company": "date"
+      },
+      {
+        "key": "包装机停机次数",
+        "value": "44",
+        "color": "green",
+        "icon": "2",
+        "company": "次"
+      },
+      {
+        "key": "包装机剔除量(包)",
+        "value": "434",
+        "color": "#fff",
+        "icon": "2",
+        "company": "盒"
+      },
+      {
+        "key": "条装机停机次数",
+        "value": "15",
+        "color": "#f40",
+        "icon": "2",
+        "company": "盒"
+      },
+      {
+        "key": "条装机剔除量",
+        "value": "230",
+        "color": "green",
+        "icon": "2",
+        "company": "盒"
+      }
+    ],
+    "materialData": [
+      {
+        "key": "小透拉带(米/箱)",
+        "value": "415.59",
+        "color": "red",
+        "icon": "3",
+        "company": "米/箱"
+      },
+      {
+        "key": "铝箔纸(米/箱)",
+        "value": "30530",
+        "color": "#fff",
+        "icon": "3",
+        "company": "米/箱"
+      },
+      {
+        "key": "条盒纸(张/箱)",
+        "value": "251.88",
+        "color": "#fff",
+        "icon": "3",
+        "company": "米/箱"
+      },
+      {
+        "key": "条透拉带(米/箱)",
+        "value": "73.36",
+        "color": "#fff",
+        "icon": "3",
+        "company": "米/箱"
+      },
+      {
+        "key": "烟支(万支/箱)",
+        "value": "30530",
+        "color": "#fff",
+        "icon": "3",
+        "company": "米/箱"
+      },
+      {
+        "key": "商标纸(张/箱)",
+        "value": "2519.24",
+        "color": "green",
+        "icon": "3",
+        "company": "米/箱"
+      },
+      {
+        "key": "小包透明纸(米/箱)",
+        "value": "415.59",
+        "color": "green",
+        "icon": "3",
+        "company": "米/箱"
+      },
+      {
+        "key": "封签纸(张/箱)",
+        "value": "2493.53",
+        "color": "#fff",
+        "icon": "3",
+        "company": "米/箱"
+      },
+      {
+        "key": "条包透明纸(米/箱)",
+        "value": "73.36",
+        "color": "red",
+        "icon": "3",
+        "company": "米/箱"
+      },
+      {
+        "key": "条明纸(米/箱)",
+        "value": "73.36",
+        "color": "red",
+        "icon": "3",
+        "company": "米/箱"
+      },
+      {
+        "key": "条明纸(米/箱)",
+        "value": "73.36",
+        "color": "red",
+        "icon": "3",
+        "company": "米/箱"
+      },
+      {
+        "key": "条明纸(米/箱)",
+        "value": "73.36",
+        "color": "red",
+        "icon": "3",
+        "company": "米/箱"
+      },
+      {
+        "key": "条包透明纸(米/箱)",
+        "value": "73.36",
+        "color": "red",
+        "icon": "3",
+        "company": "米/箱"
+      },
+      {
+        "key": "条包纸(米/箱)",
+        "value": "73.36",
+        "color": "red",
+        "icon": "3",
+        "company": "米/箱"
+      },
+      {
+        "key": "条包纸(米/箱)",
+        "value": "73.36",
+        "color": "red",
+        "icon": "3",
+        "company": "米/箱"
+      }
+    ]
+  },
+  "shishitongji":{
+    "basics":[
+      {
+        "key": "部门名称",
+        "vlue": "制造一部"
+      },
+      {
+        "key": "机组名称",
+        "vlue": "11#包装机"
+      },
+      {
+        "key": "班组名称",
+        "vlue": "红山茶(软)"
+      },
+      {
+        "key": "工单编号",
+        "vlue": "201512201130218044545"
+      },
+      {
+        "key": "班组名称",
+        "vlue": "红山茶(软)"
+      },
+      {
+        "key": "班组名称",
+        "vlue": "红山茶(软)"
+      }
+    ],
+    "materialData":{
+      "norm":[
+        {
+          "name":"产量",
+          "number":"001",
+          "sop":"29316(包)",
+          "company":"包"
+        },
+        {
+          "name":"烟支投入总量",
+          "number":"002",
+          "sop":"594100(支)",
+          "company":"支"
+        }
+      ]
+    },
+    "productionData":{
+      "plan":"",
+      "Actual":"",
+      "sop":"",
+      "norm":[
+        {
+          "name":"设备利用率",
+          "number":"001",
+          "sop":"73.28%"
+        },
+        {
+          "name":"生产效率",
+          "number":"002",
+          "sop":"94.27%"
+        }
+      ]
+    },
+    "chars":{
+      "title":{
+        "name":"工序产能统计图",
+        "color":""
+      },
+      "text":[
+        {
+          "name":"工序产能统计图",
+          "color":"#558ed5",
+          "type":"line",
+          "value":[8650, 8450, 8470, 8350, 8100, 8280]
+        }
+      ],
+      "name":["第一小时", "第二小时", "第三小时", "第四小时", "第五小时", "第六小时"],
+      "max":["600"],
+      "min":["0"],
+      "company":["张"]
+    },
+    "chars2":{
+      "title": {
+        "name": "剔除状况",
+        "color": "gray"
+      },
+      "text": [
+        {
+          "name": "30%CH剔除",
+          "value": "30",
+          "color": "blue"
+        },
+        {
+          "name": "11%CT剔除",
+          "value": "11",
+          "color": "green"
+        },
+        {
+          "name": "53%小包机出口剔除",
+          "value": "53",
+          "color": "gray"
+        },
+        {
+          "name": "6%模盒烟剔除",
+          "value": "6",
+          "color": "red"
+        }
+      ]
+    }
+  },
+  "wuliaojiankong":{
+    "basics":[
+      {
+        "key":"部门名称",
+        "vlue":"制造一部"
+      },
+      {
+        "key":"机组名称",
+        "vlue":"11#包装机"
+      }
+    ],
+    "table":{
+      "number":"",
+      "type":"",
+      "row":[
+        {
+          "number":"",
+          "type":"",
+          "col":[
+            {
+              "text":"小包机机器速度",
+              "number":"001",
+              "type":"text"
+            },
+            {
+              "text":"376(包/分)",
+              "number":"002",
+              "type":"text"
+            }
+          ]
+        },
+        {
+          "number":"",
+          "type":"",
+          "col":[
+            {
+              "text":"小包机机器状态",
+              "number":"001",
+              "type":"text"
+            },
+            {
+              "text":"运行",
+              "number":"002",
+              "type":"text"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

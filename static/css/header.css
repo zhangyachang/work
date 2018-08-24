@@ -1,0 +1,14 @@
+.mods-header {
+  width: 100%;
+  height: 3.03571429rem;
+  background: #00172C;
+}
+.arrow {
+  width: 13.03571429rem;
+  height: 2.25rem;
+  line-height: 2.25rem;
+  text-align: center;
+  font-size: 1.42857143rem;
+  color: #BABABA;
+  background: url("../images/head/header.jpg") no-repeat center / 100% 100%;
+}

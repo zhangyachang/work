@@ -1,0 +1,26 @@
+@rem:14rem;
+@grem:2*@rem;
+.mods-content-title{
+	width: 100%;
+	height: 100/@grem;
+	background: #01293E;
+}
+.mods-content-title-ul{
+	display: flex;
+	flex-wrap: wrap;
+}
+.mods-content-title-ul li{
+	display: flex;
+	width: 33%;
+	line-height: 50/@grem;
+	font-size: 24/@grem;
+	text-indent: 1em;
+	white-space: nowrap;
+	color: #BABABA;
+}
+.mods-content-title-ul li span{
+	color: #2EDAAA;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap;
+}
